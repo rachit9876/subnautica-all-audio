@@ -31,6 +31,4 @@ To extract the audio, we will use a tool called **Fmod-Bank-Tools**.
 5. Once complete, the tool will output the extracted audio into the `...\Fmod_Bank_Tools\wav` directory.
 
 ---
-File structure here : [See](https://github.com/rachit9876/subnautica-all-audio/blob/main/dir.md)
-
-## Directory Structure
+File Structure here : [See](https://github.com/rachit9876/subnautica-all-audio/blob/main/dir.md)
