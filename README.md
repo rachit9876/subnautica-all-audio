@@ -1,6 +1,11 @@
 # Subnautica SFX & OST Extractor
 
-Get the zip of all SFX/OST: [Download directly here](https://github.com/rachit9876/subnautica-all-audio/releases/latest)
+Get the ZIP containing all SFX and OST files:
+[Download directly here](https://github.com/rachit9876/subnautica-all-audio/releases/latest) (for game version v83031)
+
+Get the game files for modding:
+[Free download](https://ankergames.net/game/subnautica)
+
 
 ---
 
